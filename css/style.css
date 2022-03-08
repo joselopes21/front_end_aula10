@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: #1CD1B0;
+    position: absolute;
+width: 1024px;
+height: 38px;
+left: 0px;
+top: 0px;
+}
+
+h1 {
+    background-color: #00669F;
+    position: absolute;
+width: 1024px;
+height: 101px;
+left: 0px;
+top: 38px;
+box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.caixabatman {
+    position: absolute;
+width: 374px;
+height: 217.81px;
+left: 112px;
+top: 225.11px;
+background: url(849bfede3a5193c34ab8a00379e64fa2.jpg);
+border-radius: 16px 16px 0px 0px;
+}
